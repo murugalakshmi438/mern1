@@ -1,0 +1,17 @@
+NEWFOLDER/
+├── backend/
+│   └── server.js
+|   └── routes/
+|        └──weatherRoutes.js
+│   └── .env              ← contains MONGO_URI, PORT
+│   └── package.json
+├── frontend/
+│   └── src/
+|        └──components/
+|         |     └──Weather.js
+|         |---api.js
+|         |---index.js
+|         |---App.js
+|         |--App.css
+|   
+└── package.json
